@@ -1,0 +1,6 @@
+{
+  "name": "Stride Run Club",
+  "description": "Premium landing page and community portal of Stride Run Club, showcasing active campaigns like the 20 Days Walk Challenge, fitness motivations, and community pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
